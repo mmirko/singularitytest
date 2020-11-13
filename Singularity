@@ -14,9 +14,7 @@ From: amd64/centos:7
 	    openssl \
 	    glibc-devel \
 	    glibc-static \
-	    openconnect \
 	    git \
-            ocproxy \
 	    bash \
 	    centos-release-scl\
 
